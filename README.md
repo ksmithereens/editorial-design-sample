@@ -1,5 +1,7 @@
-# DESN 368 Web Design 1 Starter Template
+# Coffee Editorial Design
 
-> **NOTE:** This is a work in progress.
+> Colin likes coffee.
+
+Stuff about coffee. Coffee is
 
 DIY Template, starter, boilerplate, prototype, etc. for future Web Design projects. 
